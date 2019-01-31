@@ -192,10 +192,10 @@
 #define _LOCALSERVER 0						// See server definitions for decodes
 
 // Gateway Ident definitions
-#define _DESCRIPTION "jnogues ESP32 Gateway"			// Name of the gateway
-#define _EMAIL "jnogues.org"		// Owner
+#define _DESCRIPTION "TTGO ESP32 Gateway"			// Name of the gateway
+#define _EMAIL "kk@kk.org"		// Owner
 #define _PLATFORM "ESP32"
-#define _LAT 41.483
+#define _LAT 4.483
 #define _LON 2.141
 #define _ALT 15								// Altitude
 
@@ -260,8 +260,8 @@ struct wpas {
 //
 wpas wpa[] = {
 	{ "" , "" },							// Reserved for WiFi Manager
-	{ "njcr", "dembele1" },
-	{ "JAZZTEL_Wuwu", "txnh3uweaw3f" }
+	{ "kk1", "kk1" },
+	{ "kk2", "kk2" }
 };
 
 // For asserting and testing the following defines are used.
