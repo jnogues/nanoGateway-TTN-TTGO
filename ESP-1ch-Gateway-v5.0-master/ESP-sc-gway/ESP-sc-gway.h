@@ -201,7 +201,7 @@
 
 // ntp
 // Please add daylight saving time to NTP_TIMEZONES when desired
-#define NTP_TIMESERVER "nl.pool.ntp.org"	// Country and region specific
+#define NTP_TIMESERVER "es.pool.ntp.org"	// Country and region specific
 #define NTP_TIMEZONES	2					// How far is our Timezone from UTC (excl daylight saving/summer time)
 #define SECS_IN_HOUR	3600
 #define NTP_INTR 0							// Do NTP processing with interrupts or in loop();
