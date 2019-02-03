@@ -1,0 +1,6 @@
+DHT11	KEYWORD1
+leer	KEYWORD2
+temperatura_C	KEYWORD2
+temperatura_K	KEYWORD2
+temperatura_F	KEYWORD2
+humedad		KEYWORD2
